@@ -8,12 +8,6 @@
 npm init -y
 ```
 
-- Instalasi Next-JS 14 :
-
-```sh 
-npm install create-next-app@latest
-```
-
 - Instalasi Prisma :
 ```sh
 npm install prisma --save-dev
