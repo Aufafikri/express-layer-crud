@@ -1,6 +1,7 @@
-EXPRESS CRUD LAYERED ARCHITECTURE
+# EXPRESS CRUD LAYERED ARCHITECTURE
 
-[aaaaaaaaaaa]
+Instalasi Next-JS 14 :
 
-![ojasosjo]
-<span style="color:blue">TEKS JADI WARNA BIRU</span>
+```sh 
+npm i create-next-app@latest
+```
